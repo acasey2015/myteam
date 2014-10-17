@@ -1,5 +1,5 @@
 body {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Francois One', sans-serif;
   font-weight: 300;
   color:purple;
   background-size: 1200px;
@@ -9,10 +9,12 @@ body {
 
 h1 {
   color:purple;
+  font-size: 32px;
 }
 
 .jumbotron {
   background-color: white;
+  font-size: 8px;
 }
 
 #wrapper 
